@@ -1,0 +1,26 @@
+{
+  "name": "mybot-chatgpt",
+  "version": "1.0.0",
+  "description": "practicing chat gpt 3.5 model",
+  "homepage": "https://github.com/ahsanadil9/my-bot-chatgpt#readme",
+  "bugs": {
+    "url": "https://github.com/ahsanadil9/my-bot-chatgpt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsanadil9/my-bot-chatgpt.git"
+  },
+  "license": "ISC",
+  "author": "AhsanAdil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.5.0",
+    "openai": "^4.95.1",
+    "readline-sync": "^1.4.10"
+  }
+}
