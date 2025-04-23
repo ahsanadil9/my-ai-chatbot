@@ -12,14 +12,16 @@
   },
   "license": "ISC",
   "author": "AhsanAdil",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "colors": "^1.4.0",
+    "deepseek": "^0.0.2",
     "dotenv": "^16.5.0",
+    "groq-sdk": "^0.20.0",
     "openai": "^4.95.1",
     "readline-sync": "^1.4.10"
   }
