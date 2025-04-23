@@ -110,5 +110,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or contributions, feel free to reach out to **Ahsan Adil** at [your-email@example.com].
+For any inquiries or contributions, feel free to reach out to **Ahsan Adil** at muhammadmahsanadil@gmail.com.
 
